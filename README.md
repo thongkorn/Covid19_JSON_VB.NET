@@ -5,7 +5,7 @@ Report Covid-19 all countries with Visual Basic .Net
 - You can search for each country name from a TextBox Control using AutoComplete (data source from DataTable) to make it easier for users to use.
 - There are two methods for parsing JSON data.
 
-*** Must Add Reference --> Newtonsoft.Json.Net20.dll ***
+*** Must be Add Reference --> Newtonsoft.Json.Net20.dll ***
 
 - More details: http://www.g2gnet.com/webboard/forum.php?mod=viewthread&tid=308
 - Webboard to collect source code Visual Basic (VB6/VBA/VB.Net) FREE!!! ... http://www.g2gnet.com/webboard
